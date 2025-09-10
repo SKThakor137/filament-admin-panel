@@ -9,6 +9,7 @@
 
 .fi-sidebar-nav {
     box-shadow: 2px 0 2px 0 rgb(0 0 0 / 0.05);
+    padding: 30px 16px;
 }
 .fi-topbar {
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 0.05);
