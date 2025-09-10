@@ -1,0 +1,15 @@
+@import '../../../../vendor/filament/filament/resources/css/theme.css';
+
+@source '../../../../app/Filament/**/*';
+@source '../../../../resources/views/filament/**/*';
+
+/* .fi-sidebar-nav {
+    box-shadow: 2px 0 4px rgba(0, 0, 0, 0.1);
+} */
+
+.fi-sidebar-nav {
+    box-shadow: 2px 0 2px 0 rgb(0 0 0 / 0.05);
+}
+.fi-topbar {
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 0.05);
+}

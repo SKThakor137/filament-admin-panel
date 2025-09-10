@@ -1,0 +1,16 @@
+/* public/css/global.css */
+
+/* Example overrides */
+body {
+    font-family: "Inter", sans-serif;
+    background-color: #f9fafb;
+}
+
+.fi-btn {
+    border-radius: 10px !important;
+}
+
+h1, h2, h3 {
+    color: #5B0559;
+}
+    
